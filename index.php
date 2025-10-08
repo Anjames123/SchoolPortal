@@ -76,6 +76,9 @@
                     <h3>About Our School</h3>
                     <p>Greater Seeds Richmaris Academy is a premier educational institution dedicated to nurturing young minds and building strong academic foundations. Located in the heart of Kuje, Abuja, we provide quality education in a safe, supportive, and inspiring environment.</p>
                     <p>Our commitment is to develop well-rounded students who excel academically while growing in character, leadership, and social responsibility.</p>
+                    <div class="welcome-image">
+                        <img src="attached_assets/stock_images/black_african_studen_b4b2a7cc.jpg" alt="Students Learning">
+                    </div>
                 </div>
                 <div class="school-stats">
                     <div class="stat-card">
@@ -207,32 +210,38 @@
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <div class="gallery-placeholder">
+                    <img src="attached_assets/stock_images/modern_school_buildi_1c1e2f43.jpg" alt="School Building">
+                    <div class="gallery-overlay">
                         <p>School Building</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <div class="gallery-placeholder">
+                    <img src="attached_assets/stock_images/black_african_studen_d99c4e07.jpg" alt="Classrooms">
+                    <div class="gallery-overlay">
                         <p>Classrooms</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <div class="gallery-placeholder">
+                    <img src="attached_assets/stock_images/black_students_in_sc_5e54cc50.jpg" alt="Laboratory">
+                    <div class="gallery-overlay">
                         <p>Laboratory</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <div class="gallery-placeholder">
+                    <img src="attached_assets/stock_images/students_reading_in__2422653a.jpg" alt="Library">
+                    <div class="gallery-overlay">
                         <p>Library</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <div class="gallery-placeholder">
+                    <img src="attached_assets/stock_images/black_children_playi_3d52d376.jpg" alt="Sports Field">
+                    <div class="gallery-overlay">
                         <p>Sports Field</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <div class="gallery-placeholder">
+                    <img src="attached_assets/stock_images/black_students_using_bf1a7dc7.jpg" alt="Computer Lab">
+                    <div class="gallery-overlay">
                         <p>Computer Lab</p>
                     </div>
                 </div>
