@@ -1,0 +1,14 @@
+# Render service definition for a Docker web service
+services:
+  - type: web
+    name: schoolportal-web
+    env: docker
+    dockerfilePath: Dockerfile
+    # optional: set the branch to deploy from
+    branch: main
+    # instance size options: free, starter, standard-1, standard-2, professional-1, etc.
+    plan: starter
+    port: 80
+    # health check path
+    healthCheckPath: /
+    # build and deploy commands are not necessary because Render will use the Dockerfile

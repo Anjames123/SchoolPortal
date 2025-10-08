@@ -1,0 +1,10 @@
+.git
+node_modules
+vendor
+.DS_Store
+*.log
+/.idea
+/.vscode
+npm-debug.log
+Dockerfile
+docker-compose.yml
