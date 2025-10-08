@@ -311,7 +311,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2024 Greater Seeds Richmaris Academy. All Rights Reserved.</p>
+                <p>&copy; 2025 Greater Seeds Richmaris Academy. All Rights Reserved.</p>
             </div>
         </div>
     </footer>
