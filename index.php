@@ -34,7 +34,7 @@
 
     <section id="home" class="hero-slider">
         <div class="slider-container">
-            <div class="slide active" style="background-image: url('attached_assets/stock_images/black_african_studen_d40cdb4f.jpg');">
+            <div class="slide active" style="background-image: url('attached_assets/stock_images/black_african_studen_d6d697cf.jpg');">
                 <div class="slide-overlay"></div>
                 <div class="slide-content">
                     <h1>Nurturing Future Leaders</h1>
@@ -42,7 +42,7 @@
                     <a href="#about" class="btn">Learn More</a>
                 </div>
             </div>
-            <div class="slide" style="background-image: url('attached_assets/stock_images/black_children_stude_54a847e0.jpg');">
+            <div class="slide" style="background-image: url('attached_assets/stock_images/black_african_childr_66adf4f7.jpg');">
                 <div class="slide-overlay"></div>
                 <div class="slide-content">
                     <h1>Quality Education for Every Child</h1>
@@ -50,7 +50,7 @@
                     <a href="#contact" class="btn">Enroll Now</a>
                 </div>
             </div>
-            <div class="slide" style="background-image: url('attached_assets/stock_images/black_students_scien_2dbb3836.jpg');">
+            <div class="slide" style="background-image: url('attached_assets/stock_images/black_african_studen_254540b0.jpg');">
                 <div class="slide-overlay"></div>
                 <div class="slide-content">
                     <h1>Shaping Tomorrow's Innovators</h1>
@@ -80,7 +80,7 @@
                     <p>Greater Seeds Richmaris Academy is a premier educational institution dedicated to nurturing young minds and building strong academic foundations. Located in the heart of Kuje, Abuja, we provide quality education in a safe, supportive, and inspiring environment.</p>
                     <p>Our commitment is to develop well-rounded students who excel academically while growing in character, leadership, and social responsibility.</p>
                     <div class="welcome-image">
-                        <img src="attached_assets/stock_images/black_african_studen_b4b2a7cc.jpg" alt="Students Learning">
+                        <img src="attached_assets/stock_images/black_african_childr_fde30ed4.jpg" alt="Students Learning">
                     </div>
                 </div>
                 <div class="school-stats">
@@ -213,37 +213,37 @@
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="attached_assets/stock_images/african_school_build_bb8a85cd.jpg" alt="School Building">
+                    <img src="attached_assets/stock_images/black_african_childr_83058fc5.jpg" alt="School Building">
                     <div class="gallery-overlay">
                         <p>School Building</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="attached_assets/stock_images/black_african_studen_d99c4e07.jpg" alt="Classrooms">
+                    <img src="attached_assets/stock_images/black_african_childr_fde30ed4.jpg" alt="Classrooms">
                     <div class="gallery-overlay">
                         <p>Classrooms</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="attached_assets/stock_images/black_students_in_sc_5e54cc50.jpg" alt="Laboratory">
+                    <img src="attached_assets/stock_images/black_african_studen_3221ab5e.jpg" alt="Laboratory">
                     <div class="gallery-overlay">
                         <p>Laboratory</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="attached_assets/stock_images/black_african_studen_3dcdb8a1.jpg" alt="Library">
+                    <img src="attached_assets/stock_images/black_african_childr_9b8fcfc5.jpg" alt="Library">
                     <div class="gallery-overlay">
                         <p>Library</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="attached_assets/stock_images/black_children_playi_3d52d376.jpg" alt="Sports Field">
+                    <img src="attached_assets/stock_images/black_african_childr_c7d6e403.jpg" alt="Sports Field">
                     <div class="gallery-overlay">
                         <p>Sports Field</p>
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="attached_assets/stock_images/black_students_using_bf1a7dc7.jpg" alt="Computer Lab">
+                    <img src="attached_assets/stock_images/black_african_studen_9b63bd8a.jpg" alt="Computer Lab">
                     <div class="gallery-overlay">
                         <p>Computer Lab</p>
                     </div>
