@@ -34,21 +34,24 @@
 
     <section id="home" class="hero-slider">
         <div class="slider-container">
-            <div class="slide active">
+            <div class="slide active" style="background-image: url('attached_assets/stock_images/black_african_studen_d40cdb4f.jpg');">
+                <div class="slide-overlay"></div>
                 <div class="slide-content">
                     <h1>Nurturing Future Leaders</h1>
                     <p>Excellence in Education, Character in Life</p>
                     <a href="#about" class="btn">Learn More</a>
                 </div>
             </div>
-            <div class="slide">
+            <div class="slide" style="background-image: url('attached_assets/stock_images/black_children_stude_54a847e0.jpg');">
+                <div class="slide-overlay"></div>
                 <div class="slide-content">
                     <h1>Quality Education for Every Child</h1>
                     <p>Building Strong Academic Foundations</p>
                     <a href="#contact" class="btn">Enroll Now</a>
                 </div>
             </div>
-            <div class="slide">
+            <div class="slide" style="background-image: url('attached_assets/stock_images/black_students_scien_2dbb3836.jpg');">
+                <div class="slide-overlay"></div>
                 <div class="slide-content">
                     <h1>Shaping Tomorrow's Innovators</h1>
                     <p>Where Learning Meets Excellence</p>

@@ -134,6 +134,14 @@ None. The website is built entirely with:
 
 ## Recent Changes
 
+**October 8, 2025** (Hero Slider Background Images):
+- Added background images to all three hero slider sections:
+  - "Nurturing Future Leaders" - Students celebrating success/graduation
+  - "Quality Education for Every Child" - Classroom learning scene
+  - "Shaping Tomorrow's Innovators" - STEM/technology innovation
+- Implemented semi-transparent blue overlay for text readability
+- Background images use cover mode for optimal display
+
 **October 8, 2025** (Image Integration):
 - Added authentic stock images of Black African students and school facilities
 - Updated gallery section with 6 professional images:
