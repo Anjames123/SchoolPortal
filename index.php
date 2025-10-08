@@ -213,7 +213,7 @@
             </div>
             <div class="gallery-grid">
                 <div class="gallery-item">
-                    <img src="attached_assets/stock_images/modern_school_buildi_1c1e2f43.jpg" alt="School Building">
+                    <img src="attached_assets/stock_images/african_school_build_bb8a85cd.jpg" alt="School Building">
                     <div class="gallery-overlay">
                         <p>School Building</p>
                     </div>
@@ -231,7 +231,7 @@
                     </div>
                 </div>
                 <div class="gallery-item">
-                    <img src="attached_assets/stock_images/students_reading_in__2422653a.jpg" alt="Library">
+                    <img src="attached_assets/stock_images/black_african_studen_3dcdb8a1.jpg" alt="Library">
                     <div class="gallery-overlay">
                         <p>Library</p>
                     </div>
