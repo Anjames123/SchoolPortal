@@ -1,0 +1,31 @@
+# Composer dependencies
+/vendor/
+composer.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+*.Zone.Identifier
+
+# Temporary files
+*.log
+*.tmp
+*.cache
+
+# Replit specific
+.replit
+.config/
+.cache/
+.upm/

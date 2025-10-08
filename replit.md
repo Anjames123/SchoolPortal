@@ -107,20 +107,42 @@ None. The website is built entirely with:
 
 ## Deployment
 
-**Current Setup**:
-- PHP built-in development server on port 5000
+**Current Setup (Development)**:
+- PHP 8.4.10 built-in development server
+- Running on 0.0.0.0:5000
 - Command: `php -S 0.0.0.0:5000`
 - Accessible via Replit webview
+- Workflow: "PHP Server" configured and active
 
 **Production Deployment**:
-- Ready for Replit Deployments (autoscale or VM)
+- Ready for Replit Deployments (autoscale recommended)
 - Can be deployed to any PHP hosting service
 - Requires PHP 7.4+ with mail() function support
-- Recommended: Use transactional email service (SendGrid, Mailgun) for production
+- Recommended: Use transactional email service (SendGrid, Mailgun) for production mail() function
+
+## Replit Environment Setup
+
+**Installed Modules**:
+- PHP 8.4 (from .replit modules)
+- Web module
+- Node.js 20 (for future enhancements)
+
+**Configuration Files**:
+- `.replit`: Configured with php-8.4, web, and nodejs-20 modules
+- `.gitignore`: Standard PHP project ignores (vendor, env, IDE files, OS files)
+- Workflow configured to run PHP development server on port 5000
 
 ## Recent Changes
 
-**October 8, 2025**:
+**October 8, 2025** (Replit Import Setup):
+- Set up PHP 8.4 environment in Replit
+- Configured PHP development server workflow on port 5000
+- Added .gitignore for PHP project
+- Removed Windows Zone.Identifier files
+- Verified website loads correctly in Replit webview
+- Updated documentation with Replit-specific setup
+
+**Initial Development**:
 - Created complete school website demo
 - Implemented secure contact form with header injection prevention
 - Added responsive design for all device sizes
