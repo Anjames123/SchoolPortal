@@ -266,6 +266,17 @@
                 </div>
                 <div class="contact-form">
                     <h3>Send Us a Message</h3>
+                    <?php
+                    if (isset($_GET['status'])) {
+                        if ($_GET['status'] == 'success') {
+                            echo '<div class="alert alert-success">Thank you! Your message has been sent successfully.</div>';
+                        } elseif ($_GET['status'] == 'error') {
+                            echo '<div class="alert alert-error">Sorry, there was an error sending your message. Please try again.</div>';
+                        } elseif ($_GET['status'] == 'invalid_email') {
+                            echo '<div class="alert alert-error">Please enter a valid email address.</div>';
+                        }
+                    }
+                    ?>
                     <form method="POST" action="contact.php">
                         <input type="text" name="name" placeholder="Your Name" required>
                         <input type="email" name="email" placeholder="Your Email" required>
